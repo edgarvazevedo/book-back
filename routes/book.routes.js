@@ -7,7 +7,7 @@ const router = express.Router();
 // importar o modelo do book
 const BookModel = require("../models/Book.model");
 
-//Importar o modelo de usuários.
+//Importar o modelo de usuários. teste
 const Usermodel = require("../models/User.model");
 
 //Importar instância do multer que faz os uploads
